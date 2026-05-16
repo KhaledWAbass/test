@@ -4,7 +4,9 @@ export function LandingPage() {
   const ArrOfImg = [
     "/src/assets/img/hero_endframe__cvklg0xk3w6e_large 2.png",
     "/src/assets/img/pexels-828860-2587370.jpg",
+    "/src/assets/img/o.png",
     "/src/assets/img/pexels-karola-g-4202325.jpg",
+    "/src/assets/img/pexels-pixabay-4158.jpg",
     "/src/assets/img/pexels-pixabay-258244.jpg",
     "/src/assets/img/pexels-suzyhazelwood-2533266.jpg",
   ];
